@@ -5,5 +5,5 @@ In this file folder, it contains four spiders for harvesting tweets into couchdb
 
 # Twitter_Analysis
 
-In this file folder, it contains the files which are used to analysize tweets and extract some information form them;
+In this file folder, it contains the files which are used to analysize tweets and extract some information from them;
 
